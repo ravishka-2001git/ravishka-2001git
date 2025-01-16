@@ -45,11 +45,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,cs,php,figma,illustrator,firebase,github,html,java,js,mysql,nextjs,nodejs,photoshop,py,pytorch,dotnet,visualstudio,vscode,=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,cs,php,figma,illustrator,firebase,github,html,java,js,mysql,nextjs,nodejs,photoshop,py,pytorch,dotnet,apple,visualstudio,vscode,=14" />
   </a>
 </p>
 
 <br>
+
+
 <h3 align="center">My Statistics:</h3>
 
 <!--- stats & Trophy (start) -->
@@ -58,12 +60,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ravishka-2001git&theme=dark&show_icons=true&count_private=true" />
   <br></br>
  
 </td>
-
+<td>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravishka-2001git&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -73,9 +74,11 @@
 </table>
 <!--- stats (end) -->
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-</p>        
-<!--- stats (end) -->
+</p>  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ravishka-2001git"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ravishka-2001git" /></a></p><br><br>
