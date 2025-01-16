@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Ravishka Fernando</h1>
+<h1 align="center"> Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Ravishka Fernando</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align = "center">
 	<img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px alt = "me"/>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center"> "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ </p>
+<br/>
+<br/>
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **OOP with JavaScript**
+- 🌱 I’m currently learning **Artificial Intelligence Technology**
   
-- 🧑‍🎓 I'm an undergraduate at **London Met University (UK)**
+- 🧑‍🎓 I'm an undergraduate at **London Met University, UK.**
 
-- 💬 Ask me about **Web development and Graphic Design**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **ravishkafdoz2001@gmail.com**
 
@@ -34,13 +40,16 @@
 <br>
 <h3 align="center">My Statistics:</h3>
 
-[![<h3>Ravishka's GitHub Activity Graph</h3>](https://activity-graph.herokuapp.com/graph?username=ravishka-2001git&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Ravishka's github stats](https://github-readme-stats.vercel.app/api?username=ravishka-2001git&show_icons=true&theme=tokyonight) | ![Ravishka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravishka-2001git&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka-2001git&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ravishka-2001git&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![Ravishka's github stats](https://github-readme-stats.vercel.app/api?username=ravishka-2001git&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka-2001git&theme=tokyonight)
 
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ravishka-2001git"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ravishka-2001git" /></a></p><br><br>
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
